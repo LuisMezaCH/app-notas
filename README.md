@@ -101,4 +101,4 @@ Este proyecto usa la licencia MIT. Revisa el archivo [LICENSE](LICENSE).
 
 ## Autor
 
-Hecho por **LuisMezaCH** - [GitHub](https://github.com/TU-USUARIO)
+Hecho por **LuisMezaCH** - [GitHub](https://github.com/LuisMezaCH)
