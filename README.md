@@ -47,8 +47,9 @@ code .
 - [ ] Eliminar notas
 - [ ] Guardar con localStorage
 
-## Ejemplos de codigo Estructura del formulario:
+## Ejemplos de codigo
 
+Estructura del formulario:
 ```html
 <input id="nota" placeholder="Escribe una nota">
 <button onclick="agregar()">Agregar</button>
