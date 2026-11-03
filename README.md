@@ -11,11 +11,11 @@ Pensada para estudiantes que necesitan apuntar ideas rapidas sin instalar ningun
 
 ## Tabla de contenidos
 
-- [Instalacion](#instalacion)
+- [Instalación](#instalación)
 - [Uso](#uso)
 - [Estado de las funciones](#estado-de-las-funciones)
 - [Arquitectura](#arquitectura)
-- [Contribucion](#contribucion)
+- [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Instalación
@@ -31,6 +31,8 @@ code .
 1. Abrir el archivo `index.html` en el navegador.
 2. Escribir una nota en el campo de texto.
 3. Hacer clic en **Agregar**.
+
+## Estado de las funciones
 
 | Función | Estado | Prioridad |
 |:--------|:------:|----------:|
